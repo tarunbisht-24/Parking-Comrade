@@ -24,7 +24,7 @@
 ---
 
 <p align="center">
-  <img alt="Layout" src="https://github.com/tarunbisht-24/My-Linktree/blob/8e3a41102d2ace1d4cc42ab1ab02fab1fb737443/preview.png">
+  <img alt="Layout" src="https://github.com/tarunbisht-24/Parking-Comrade/Preview/BG2.jpg">
 </p>
 
 ---
