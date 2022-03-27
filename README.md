@@ -33,7 +33,7 @@
 
 - This is an open source project that serves as a free alternative to the Linktree website, made only in html and css.
 
-- [Deploy](https://tarunbisht-24.github.io/My-Linktree)
+- [Deploy](g8parkingcomrade.herokuapp.com/)
 
 ## :rocket: Getting started
 
