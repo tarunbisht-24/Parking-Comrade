@@ -24,7 +24,7 @@
 ---
 
 <p align="center">
-  <img alt="Layout" src="https://github.com/tarunbisht-24/Parking-Comrade/Preview/BG2.jpg">
+  <img alt="Layout" src="https://github.com/tarunbisht-24/Parking-Comrade/blob/10eb648de5fb6b441387fe515410d98badc54143/Preview/BG2.jpg">
 </p>
 
 ---
