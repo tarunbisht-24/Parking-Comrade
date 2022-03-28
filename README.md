@@ -47,4 +47,4 @@
 
 ---
 
-Made with ♥ by Tarun Bisht :wave: [Get in touch](https://tarunbisht-24.github.io/My-Linktree)
+Made with ♥ by Tarun Bisht :wave: [Get in touch](https://tarunbisht-24.github.io/)
