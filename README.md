@@ -47,4 +47,4 @@
 
 ---
 
-Made with ♥ by Tarun Bisht :wave: [Get in touch](https://tarunbisht-24.github.io/)
+Made with ♥ by Tarun Bisht :wave: [Get in touch](https://github.com/tarunbisht-24)
