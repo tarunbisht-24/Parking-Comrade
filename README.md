@@ -31,7 +31,7 @@
 
 ## :bulb: About the project
 
-- This is an open source project that serves as a free alternative to the Linktree website, made only in html and css.
+- This is an IOT based project that serves as a parking lot for users made only in html, css and javascript.
 
 - [Deploy](https://g8parkingcomrade.herokuapp.com/)
 
