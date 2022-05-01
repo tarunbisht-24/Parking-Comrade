@@ -1,5 +1,5 @@
 <h1 align="center">:evergreen_tree: Parking Comrade</h1>
-<h3 align="center">Parking Comrade sensing technology is leading the way in the delivery of proven, fully integrated, end-to-end solutions, resulting in a transformation of the complete parking experience..</h3>
+<h3 align="center">Parking Comrade is an IOT and front-end based project which detect free parking lot for users</h3>
 
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/tarunbisht-24/Parking-Comrade?color=04D361&labelColor=000000">
