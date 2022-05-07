@@ -31,7 +31,7 @@
 
 ## :bulb: About the project
 
-- This is an IOT based project that serves as a parking lot for users which is made only in html, css and javascript.
+- This is an IOT-based project that serves as a parking lot for users which is made only in HTML, CSS and javascript.
 
 - [Deploy](https://g8parkingcomrade.herokuapp.com/)
 
